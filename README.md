@@ -1,12 +1,12 @@
-~ApexPlanet Cybersecurity & Ethical Hacking Internship
+#ApexPlanet Cybersecurity & Ethical Hacking Internship
 
-~Task 1: Foundation & Environment Setup
+##Task 1: Foundation & Environment Setup
 
-~Objective
+###Objective
 
 Build strong fundamentals in cybersecurity, networking, cryptography, and set up a professional cybersecurity lab environment.
 
-~Topics Covered
+###Topics Covered
 
 - Cybersecurity Fundamentals
 - CIA Triad
@@ -17,21 +17,21 @@ Build strong fundamentals in cybersecurity, networking, cryptography, and set up
 - Cryptography Basics
 - Security Tools
 
-~Lab Environment
+###Lab Environment
 
 - VMware
 - Kali Linux
 - Metasploitable2 / DVWA
 - Host-Only Network
 
-~Security Tools
+###Security Tools
 
 - Wireshark
 - Nmap
 - Burp Suite
 - Netcat
 
-~Deliverables
+###Deliverables
 
 - Lab Setup Report
 - Linux Cheat Sheet
@@ -39,7 +39,7 @@ Build strong fundamentals in cybersecurity, networking, cryptography, and set up
 - Screenshots and Practical Evidence
 - 5-Minute Lab Walkthrough Video
 
-~Internship
+##Internship
 
 **Organization:** ApexPlanet Software Pvt. Ltd.
 
