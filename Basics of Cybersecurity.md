@@ -1,4 +1,7 @@
 # Cybersecurity Basics
+The practice of protecting systems, networks, and data from digital threats such as cyber attacks, data breaches, and unauthorized access. It encompasses various strategies, technologies,
+and practices designed to safeguard information from malicious actors. In an increasingly connected
+world, cybersecurity is essential for individuals, businesses, and governments to prevent financial losses, reputational damage, and operational disruptions.
 
 ## 1. CIA Triad
 
@@ -24,13 +27,33 @@ Availability means ensuring that systems and information are accessible to autho
 
 Phishing is a type of attack in which an attacker attempts to trick a user into revealing sensitive information, such as passwords or account details.
 
+EXAMPLES OF PHISHING:
+
+Email Phishing: Fraudulent emails impersonating a trustworthy source.
+● Spear Phishing: Highly targeted phishing aimed at specific individuals or
+organizations.
+● Vishing (Voice Phishing): Scams conducted over phone calls.
+● Smishing (SMS Phishing): Fake text messages designed to steal credentials.
+
 ### Malware
 
 Malware is malicious software designed to damage systems, disrupt operations, steal information, or gain unauthorized access.
 
+EXAMPLES OF MALWARE:
+
+Viruses,
+Worms,
+Trojans,
+Ransomware. 
+
 ### DDoS
 
 DDoS stands for Distributed Denial-of-Service. It involves overwhelming a system or service with a large amount of traffic so that legitimate users cannot access it normally.
+
+EXAMPLES OF DDoS
+
+Application Layer Attacks
+Volumetric Attacks
 
 ### SQL Injection
 
